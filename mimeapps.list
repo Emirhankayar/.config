@@ -1,0 +1,12 @@
+[Added Associations]
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop;brave-browser.desktop;libreoffice-draw.desktop;
+application/x-shellscript=kitty-open.desktop;code.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=org.pwmt.zathura-pdf-poppler.desktop;
+text/plain=org.xfce.mousepad.desktop;
+video/mp4=vlc.desktop;
+application/x-executable=kitty.desktop;
+inode/directory=md.obsidian.Obsidian.desktop;
+
+[Default Applications]
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop
+application/x-executable=kitty.desktop
