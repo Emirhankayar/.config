@@ -13,6 +13,7 @@ declare -A menu_options=(
   ["90s"]="https://www.youtube.com/playlist?list=PLD58ECddxRngHs9gZPQWOCAKwV1hTtYe4"
   ["80s"]="https://www.youtube.com/playlist?list=PLd9auH4JIHvupoMgW5YfOjqtj6Lih0MKw"
   ["Head Fuck"]="https://www.youtube.com/playlist?list=PLOUzUrKhNae6JqXAjG56Akc79vuzYCOYz"
+  ["Megadeth"]="https://www.youtube.com/playlist?list=PL3IzjnrvtZwtiYMoQWk2VMvq0hlCFDhtk"
 )
 
 # Function for displaying notifications
