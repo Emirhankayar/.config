@@ -7,6 +7,7 @@ video/mp4=vlc.desktop;
 application/x-executable=kitty.desktop;
 inode/directory=md.obsidian.Obsidian.desktop;
 video/x-matroska=vlc.desktop;
+text/x-python=code.desktop;
 
 [Default Applications]
 application/pdf=org.pwmt.zathura-pdf-poppler.desktop

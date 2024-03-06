@@ -1,13 +1,13 @@
-/* ----------- 💫 https://github.com/JaKooLit 💫 -------- */
+/* ----------- 💫 /https://github.com/JaKooLit 💫 -------- */
 
 @import '../../.cache/wal/colors-waybar.css';
 
-@define-color noti-border-color #c5c6c7;
-@define-color noti-bg rgba(0, 0, 0, 0.5);
-@define-color noti-bg-alt rgba(0,0,0,0.3);
+@define-color noti-border-color rgba(255,255,255,0.5);
+@define-color noti-bg rgba(36, 40, 59, 0.5);
+@define-color noti-bg-alt rgba(0,0,0,0.0);
 @define-color noti-bg-hover @color2;
-@define-color text-color @color14;
-@define-color text-color-alt @color7;
+@define-color text-color #7aa2f7;
+@define-color text-color-alt #7aa2f7;
 @define-color text-color-disabled rgba(150, 150, 150, 0.8);
 
 * {
@@ -19,7 +19,7 @@
 .control-center .notification-row:hover {
     opacity: 1;
     background: @noti-bg;
-    border-radius: 10px
+    border-radius: 5px
 }
 
 .notification-row {
@@ -28,30 +28,30 @@
 }
 
 .notification {
-	border-radius: 10px;
+	border-radius: 5px;
 }
 
 .notification-content{
 	color: @text-color;
-    background: @noti-bg;
-    padding: 3px 10px 3px 6px;
-    border-radius: 10px;
-    border: 2px solid @noti-border-color;
-    margin: 0px;
+    background: rgba(36,40,59,0.9);
+    padding: 0px;
+    border-radius: 5px;
+    border: 0.5px solid @noti-border-color;
+    margin:0;
 }
 
 .notification-default-action {
     margin: 0;
     padding: 0;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .close-button {
     background: #f7768e;
     color: @noti-bg;
     text-shadow: none;
-    padding: 0;
-    border-radius: 10px;
+    padding: 5px;
+    border-radius: 5px;
     margin-top: 5px;
     margin-right: 5px;
 }
@@ -65,9 +65,9 @@
 
 
 .notification-action {
-    border: 2px solid @noti-border-color;
+    border: 0.5px solid @noti-border-color;
     border-top: none;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 
@@ -78,7 +78,7 @@
 }
 
 .notification-default-action {
-    border-radius: 10px;
+    border-radius: 5px;
     margin: 5px;
 }
 
@@ -105,7 +105,7 @@
     background: @noti-bg;
     color: @text-color;
     caret-color: @text-color;
-    border: 1px solid @noti-border-color;
+    border: 0.5px solid @noti-border-color;
     border-radius: 10px
 }
 
@@ -113,15 +113,15 @@
 	font-size: 0.5rem;
     margin-left: 4px;
     background: @noti-bg;
-    border: 1px solid @noti-border-color;
-    border-radius: 10px;
+    border: 0.5px solid @noti-border-color;
+    border-radius: 5px;
     color: @text-color
 }
 
 .inline-reply-button:disabled {
     background: initial;
     color: @text-color-disabled;
-    border: 1px solid transparent
+    border: 0.5px solid transparent
 }
 
 .inline-reply-button:hover {
@@ -161,9 +161,9 @@
 
 .control-center {
     background: @noti-bg;
-    border: 2px solid @noti-border-color;
+    border: 0.5px solid @noti-border-color;
 	color: @text-color;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .control-center-list {
@@ -188,13 +188,13 @@
     padding: 3px 6px;
     margin: 5px;
     font-size: 1rem;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .widget-title>button {
     font-size: 0.75rem;
     color: @text-color;
-    border-radius: 10px;
+    border-radius: 5px;
 	background: transparent;
 	border: 0.5px solid @noti-border-color;
 }
@@ -208,29 +208,29 @@
     background: @noti-bg-alt;
     padding: 3px 6px;
     margin: 5px;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: 1rem;
     color: @noti-border-color;
 }
 
 .widget-dnd>switch {
-    border-radius: 10px;
-    /* border: 1px solid #7aa2f7; */
-    background: @noti-border-color;
+    border-radius: 5px;
+    border: 1px solid #7aa2f7;
+    /*background: @noti-border-color;*/
 }
 
 .widget-dnd>switch:checked {
     background: #f7768e;
-    border: 1px solid #f7768e;
+    border: 0.5px solid #f7768e;
 }
 
 .widget-dnd>switch slider {
-    background: @noti-bg;
+    /*background: @noti-bg;*/
     border-radius: 10px
 }
 
 .widget-dnd>switch:checked slider {
-    background: @noti-bg;
+   /* background: @noti-bg;*/
     border-radius: 10px
 }
 
@@ -245,14 +245,14 @@
 
 .widget-mpris {
     color: @text-color;
-    background: @noti-bg-alt;
+/*    background: @noti-bg-alt;*/
     padding: 3px 6px;
     margin: 5px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .widget-mpris > box > button {
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .widget-mpris-player {
@@ -274,14 +274,14 @@
 	color: @noti-border-color;
     padding: 2px;
     margin: 5px;
-    border-radius: 10px;
+    border-radius: 5px;
     background: @noti-bg-alt;
 }
 
 .widget-buttons-grid>flowbox>flowboxchild>button {
     margin: 1px;
     background: @noti-bg;
-    border-radius: 10px;
+    border-radius: 5px;
     color: @text-color
 }
 
@@ -304,7 +304,7 @@
     background: @noti-bg-alt;
     padding: 2px;
     margin: 10px 10px 5px 10px;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: x-large;
     color: @text-color
 }
@@ -318,7 +318,7 @@
     background-color: @noti-bg;
     padding: 4px 8px 8px;
     margin: 0 8px 8px;
-    border-radius: 10px;
+    border-radius: 5px;
 	color: @text-color
 }
 
@@ -326,7 +326,7 @@
     background: @noti-bg-alt;
     padding: 5px;
     margin: 10px 10px 5px 10px;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: x-large;
     color: @text-color
 }
@@ -334,17 +334,17 @@
 .low {
   background: @text-color;
   padding: 0px;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .normal {
   background: @text-color;
   padding: 0px;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .critical {
   background: red;
   padding: 0px;
-  border-radius: 10px;
+  border-radius: 5px;
 }

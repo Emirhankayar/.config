@@ -36,7 +36,7 @@ window {
     transparency: "screenshot";
     border-color: @transparent;   
     border: 0px;
-    border-radius: 6px;
+    border-radius: 5px;
     spacing: 0;
     children: [ mainbox ];
 }
@@ -49,9 +49,9 @@ mainbox {
 inputbar {
     color: @kl;
     padding: 11px;
-    border: 3px 3px 2px 3px;
+    border: 1px 1px 1px 1px;
     border-color: @primary;
-    border-radius: 6px 6px 0px 0px;
+    border-radius: 5px 5px 0px 0px;
     background-color: @transparent;
 }
 
@@ -82,8 +82,8 @@ listview {
     padding: 8px;
     lines: 12;
     columns: 1;
-    border: 0px 3px 3px 3px; 
-    border-radius: 0px 0px 6px 6px;
+    border: 0px 1px 1px 1px; 
+    border-radius: 0px 0px 5px 5px;
     border-color: @primary;
     dynamic: false;
 }
@@ -129,15 +129,15 @@ element selected active {
 button {
     padding: 6px;
     color: @primary;
-    horizonatal-align: 0.5;
+    horizontal-align: 0.5;
 
-    border: 2px 0px 2px 2px;
+    border: 1px 0px 1px 1px;
     border-radius: 4px 0px 0px 4px;
     border-color: @primary;
 }
 
 button selected normal {
-    border: 2px 0px 2px 2px;
+    border: 1px 0px 1px 1px;
     border-color: @primary;
 }
 
