@@ -8,7 +8,7 @@
   <property name="last-separator-position" type="int" value="113"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
   <property name="last-details-view-visible-columns" type="string" value="THUNAR_COLUMN_DATE_MODIFIED,THUNAR_COLUMN_NAME,THUNAR_COLUMN_SIZE,THUNAR_COLUMN_TYPE"/>
-  <property name="last-details-view-column-widths" type="string" value="50,50,147,138,96,105,50,50,194,50,50,87,50,123"/>
+  <property name="last-details-view-column-widths" type="string" value="50,50,147,138,96,105,50,50,320,50,50,87,50,114"/>
   <property name="misc-volume-management" type="bool" value="false"/>
   <property name="hidden-devices" type="array">
     <value type="string" value="77afc3c9-f03e-45f1-b8db-6f4e9e44ef13"/>

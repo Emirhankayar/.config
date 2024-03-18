@@ -1,0 +1,422 @@
+[info   ] UserConfig: Could not read user config file '/home/capitan/.config/supertuxkart/config-0.10/config.xml'.  A new file will be created.
+[info   ] [FileManager]: Data files will be fetched from: '/usr/share/supertuxkart/data/'
+[info   ] [FileManager]: User directory is '/home/capitan/.config/supertuxkart/config-0.10/'.
+[info   ] [FileManager]: Addons files will be stored in '/home/capitan/.local/share/supertuxkart/addons/'.
+[info   ] [FileManager]: Screenshots will be stored in '/home/capitan/.local/share/supertuxkart/screenshots/'.
+[info   ] [FileManager]: User-defined grand prix will be stored in '/home/capitan/.local/share/supertuxkart/grandprix/'.
+[info   ] [FileManager]: Asset 0 will be loaded from '/usr/share/supertuxkart/data/challenges/'.
+[info   ] [FileManager]: Asset 1 will be loaded from '/usr/share/supertuxkart/data/gfx/'.
+[info   ] [FileManager]: Asset 2 will be loaded from '/usr/share/supertuxkart/data/grandprix/'.
+[info   ] [FileManager]: Asset 3 will be loaded from '/usr/share/supertuxkart/data/gui/icons/'.
+[info   ] [FileManager]: Asset 4 will be loaded from '/usr/share/supertuxkart/data/gui/screens/'.
+[info   ] [FileManager]: Asset 5 will be loaded from '/usr/share/supertuxkart/data/gui/dialogs/'.
+[info   ] [FileManager]: Asset 6 will be loaded from '/usr/share/supertuxkart/data/replay/'.
+[info   ] [FileManager]: Asset 7 will be loaded from '/usr/share/supertuxkart/data/shaders/'.
+[info   ] [FileManager]: Asset 8 will be loaded from '/usr/share/supertuxkart/data/skins/'.
+[info   ] [FileManager]: Asset 9 will be loaded from '/usr/share/supertuxkart/data/ttf/'.
+[info   ] [FileManager]: Asset 10 will be loaded from '/usr/share/supertuxkart/data/po/'.
+[info   ] [FileManager]: Asset 11 will be loaded from '/usr/share/supertuxkart/data/library/'.
+[info   ] [FileManager]: Asset 12 will be loaded from '/usr/share/supertuxkart/data/models/'.
+[info   ] [FileManager]: Asset 13 will be loaded from '/usr/share/supertuxkart/data/music/'.
+[info   ] [FileManager]: Asset 14 will be loaded from '/usr/share/supertuxkart/data/sfx/'.
+[info   ] [FileManager]: Asset 15 will be loaded from '/usr/share/supertuxkart/data/textures/'.
+[info   ] [FileManager]: Asset 16 will be loaded from '/usr/share/supertuxkart/data/tracks/'.
+[verbose  ] translation: Env var LANGUAGE = 'en_DK.UTF-8'.
+[verbose  ] translation: Language 'English'.
+[info   ] ServerConfig: Could not read server config file '/home/capitan/.config/supertuxkart/config-0.10/server_config.xml'. A new file will be created.
+[info   ] [IrrDriver Logger]: ..:: Antarctica Rendering Engine 2.0 ::..
+[info   ] [IrrDriver Logger]: SDL Version 2.26.5
+[info   ] [IrrDriver Logger]: Using renderer: OpenGL ES 3.1 Mesa 24.0.0-asahi20240123
+[info   ] [IrrDriver Logger]: Mesa
+[info   ] [IrrDriver Logger]: GL_EXT_blend_minmax GL_EXT_multi_draw_arrays GL_EXT_texture_filter_anisotropic GL_EXT_texture_compression_s3tc GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_format_BGRA8888 GL_OES_compressed_ETC1_RGB8_texture GL_OES_depth24 GL_OES_element_index_uint GL_OES_fbo_render_mipmap GL_OES_mapbuffer GL_OES_rgb8_rgba8 GL_OES_standard_derivatives GL_OES_stencil8 GL_OES_texture_3D GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_texture_npot GL_OES_vertex_half_float GL_EXT_draw_instanced GL_EXT_texture_sRGB_decode GL_OES_EGL_image GL_OES_depth_texture GL_OES_packed_depth_stencil GL_EXT_texture_type_2_10_10_10_REV GL_NV_conditional_render GL_OES_get_program_binary GL_APPLE_texture_max_level GL_EXT_discard_framebuffer GL_EXT_read_format_bgra GL_NV_pack_subimage GL_EXT_frag_depth GL_NV_fbo_color_attachments GL_OES_EGL_image_external GL_OES_EGL_sync GL_OES_vertex_array_object GL_OES_viewport_array GL_ANGLE_pack_reverse_row_order GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_EXT_occlusion_query_boolean GL_EXT_texture_rg GL_EXT_unpack_subimage GL_NV_draw_buffers GL_NV_read_buffer GL_NV_read_depth GL_NV_read_depth_stencil GL_NV_read_stencil GL_APPLE_sync GL_EXT_draw_buffers GL_EXT_instanced_arrays GL_EXT_map_buffer_range GL_KHR_debug GL_KHR_texture_compression_astc_ldr GL_NV_generate_mipmap_sRGB GL_NV_pixel_buffer_object GL_OES_depth_texture_cube_map GL_OES_required_internalformat GL_OES_surfaceless_context GL_EXT_color_buffer_float GL_EXT_debug_label GL_EXT_sRGB_write_control GL_EXT_separate_shader_objects GL_EXT_shader_framebuffer_fetch GL_EXT_shader_implicit_conversions GL_EXT_shader_integer_mix GL_EXT_base_instance GL_EXT_compressed_ETC1_RGB8_sub_texture GL_EXT_draw_buffers_indexed GL_EXT_draw_elements_base_vertex GL_EXT_gpu_shader5 GL_EXT_primitive_bounding_box GL_EXT_render_snorm GL_EXT_shader_io_blocks GL_EXT_texture_border_clamp GL_EXT_texture_buffer GL_EXT_texture_cube_map_array GL_EXT_texture_norm16 GL_EXT_texture_view GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_NV_image_formats GL_NV_shader_noperspective_interpolation GL_OES_draw_buffers_indexed GL_OES_draw_elements_base_vertex GL_OES_gpu_shader5 GL_OES_primitive_bounding_box GL_OES_sample_shading GL_OES_sample_variables GL_OES_shader_io_blocks GL_OES_shader_multisample_interpolation GL_OES_texture_border_clamp GL_OES_texture_buffer GL_OES_texture_cube_map_array GL_OES_texture_stencil8 GL_OES_texture_storage_multisample_2d_array GL_OES_texture_view GL_EXT_blend_func_extended GL_EXT_buffer_storage GL_EXT_float_blend GL_EXT_geometry_point_size GL_EXT_geometry_shader GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_KHR_no_error GL_KHR_texture_compression_astc_sliced_3d GL_OES_EGL_image_external_essl3 GL_OES_geometry_point_size GL_OES_geometry_shader GL_OES_shader_image_atomic GL_EXT_clear_texture GL_EXT_clip_cull_distance GL_EXT_disjoint_timer_query GL_EXT_texture_compression_s3tc_srgb GL_MESA_shader_integer_functions GL_EXT_clip_control GL_EXT_color_buffer_half_float GL_EXT_texture_compression_bptc GL_EXT_texture_mirror_clamp_to_edge GL_KHR_parallel_shader_compile GL_EXT_EGL_image_storage GL_EXT_shader_framebuffer_fetch_non_coherent GL_MESA_framebuffer_flip_y GL_EXT_depth_clamp GL_MESA_sampler_objects GL_MESA_bgra 
+[info   ] IrrDriver: OpenGL version: 3.1
+[info   ] IrrDriver: OpenGL vendor: Mesa
+[info   ] IrrDriver: OpenGL renderer: Apple M1 (G13G B1)
+[info   ] IrrDriver: OpenGL version string: OpenGL ES 3.1 Mesa 24.0.0-asahi20240123
+[info   ] GLDriver: Explicit Attrib Location Present
+[info   ] GLDriver: ARB Uniform Buffer Object Present
+[info   ] GLDriver: EXT texture format BGRA8888 Present
+[info   ] GLDriver: EXT Color Buffer Float Present
+[info   ] GLDriver: EXT Texture Compression S3TC Present
+[info   ] GLDriver: EXT Texture Compression S3TC sRGB Present
+[info   ] SharedGPUObjects: Hardware Skinning enabled, method: 1024 (max bones) * 16 RGBA float texture
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/screenquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/motion_blur.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/lightning.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/primitive2dlist.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/transparent.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/texturedquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/uniformcolortexturedquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/texturedquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/coloredquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/coloredquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/colortexturedquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/colortexturedquad.frag
+[info   ] irr_driver: GLSL supported.
+[info   ] GUI: Loading skin data from file: /usr/share/supertuxkart/data/skins/peach/stkskin.xml
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_pass.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_solid.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_shadow.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/white.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_skinning.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_skinning_shadow.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_normal_map.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_alpha_test.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_shadow_alpha_test.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_decal.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_grass_pass.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_grass.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_grass_shadow.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_unlit.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_transparent.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_ghost.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_dynamic_night_bloom.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_tilling_mitigation.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_vertical_mapping.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_road_blending.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_displace.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/colorize.frag
+[info   ] player_manager: A new players.xml file will be created.
+[info   ] Highscore Manager: New highscore file '/home/capitan/.config/supertuxkart/config-0.10/highscore.xml' created.
+
+[info   ] GrandPrixManager: Loading Grand Prix files from /usr/share/supertuxkart/data/grandprix/
+[info   ] GrandPrixManager: Loading Grand Prix files from /home/capitan/.local/share/supertuxkart/grandprix/
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/xml/online_news.xml
+[info   ] addons: Downloading updated addons.xml.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/xml/online_assets.xml
+[info   ] HTTPRequest: Sending username=emnrnky&password=************&save-session=true to https://online.supertuxkart.net/api/v2/user/connect/
+[info   ] HTTPRequest: Sending username=emnrnky&password=************&save-session=true to https://online.supertuxkart.net/api/v2/user/connect/
+[info   ] HTTPRequest: Sending username=capitan&password=************&save-session=true to https://online.supertuxkart.net/api/v2/user/connect/
+[info   ] HTTPRequest: Sending username=capitan&password=************&save-session=true to https://online.supertuxkart.net/api/v2/user/connect/
+[info   ] HTTPRequest: Sending username=emrnky&password=************&save-session=true to https://online.supertuxkart.net/api/v2/user/connect/
+[info   ] HTTPRequest: Sending username=emrnky&password=************&save-session=true to https://online.supertuxkart.net/api/v2/user/connect/
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[info   ] HTTPRequest: Sending userid=433115&token=************************&visitingid=433115 to https://online.supertuxkart.net/api/v2/user/get-friends-list/
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] HTTPRequest: Sending userid=433115&token=************************&visitingid=433115 to https://online.supertuxkart.net/api/v2/user/get-friends-list/
+[info   ] STKHost: Host initialized.
+Wed Mar 06 12:43:58 2024 [info   ] STKHost: Host initialized.
+Wed Mar 06 12:43:58 2024 [info   ] STKHost: Server port is 2759
+Wed Mar 06 12:43:58 2024 [info   ] ServerLobby: Resetting the server to its initial state.
+Wed Mar 06 12:43:58 2024 [info   ] ProtocolManager: A 11ServerLobby protocol has been started.
+Wed Mar 06 12:43:58 2024 [info   ] STKHost: Listening has been started.
+[info   ] ConnectToServer: SETUP
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been started.
+[info   ] ConnectToServer: Trying connecting to [::1]:2759 from port 40368, retry remain: 3
+[info   ] ConnectToServer: Connected to [::1]:2759
+[info   ] ProtocolManager: A 11ClientLobby protocol has been started.
+[info   ] STKHost: Listening has been started.
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been terminated.
+Wed Mar 06 12:43:58 2024 [info   ] STKHost: [::1]:40368 has just connected. There are now 1 peers.
+Wed Mar 06 12:43:58 2024 [info   ] ServerLobby: Message of type 1 received.
+Wed Mar 06 12:43:58 2024 [info   ] ServerLobby: New player emrnky with online id 433115 from [::1]:40368 with SuperTuxKart/1.4 (Linux).
+[info   ] ClientLobby: Synchronous message of type 4
+[info   ] ClientLobby: Synchronous message of type 6
+[info   ] ClientLobby: Synchronous message of type 3
+[info   ] ClientLobby: The server accepted the connection.
+[info   ] ClientLobby: Synchronous message of type 18
+[info   ] ClientLobby: Synchronous message of type 6
+[info   ] NetworkTimerSynchronizer: Network timer synchronized, difference: 1ms
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+Wed Mar 06 12:47:20 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: emrnky: gay luca
+Wed Mar 06 12:47:28 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: emrnky: GAY LUCA
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+Wed Mar 06 12:47:34 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: emrnky: GAY LUCA
+Wed Mar 06 12:47:36 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: emrnky: GAY LUCA
+Wed Mar 06 12:47:38 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: emrnky: GAY LUCA
+Wed Mar 06 12:47:39 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: emrnky: GAY LUCA
+Wed Mar 06 12:47:40 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: Spam detected
+Wed Mar 06 12:47:42 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: Spam detected
+Wed Mar 06 12:47:44 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: Spam detected
+Wed Mar 06 12:47:44 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: Spam detected
+Wed Mar 06 12:47:50 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: emrnky: sudo pacman -Syyu
+Wed Mar 06 12:47:59 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: emrnky: sudo rm -rf *
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+Wed Mar 06 12:49:15 2024 [info   ] ServerLobby: Message of type 17 received.
+[info   ] ClientLobby: Synchronous message of type 17
+[info   ] ClientLobby: emrnky: 😭😭😭😭😭😭😭😭😭😭
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] ProtocolManager: A 11ClientLobby protocol has been terminated.
+Wed Mar 06 12:50:34 2024 [info   ] ProtocolManager: A 11ServerLobby protocol has been terminated.
+[info   ] STKHost: Listening has been stopped.
+Wed Mar 06 12:50:34 2024 [info   ] STKHost: Listening has been stopped.
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] STKHost: Host initialized.
+Wed Mar 06 12:50:42 2024 [info   ] STKHost: Host initialized.
+Wed Mar 06 12:50:42 2024 [info   ] STKHost: Server port is 2759
+Wed Mar 06 12:50:42 2024 [info   ] ServerLobby: Resetting the server to its initial state.
+Wed Mar 06 12:50:42 2024 [info   ] ProtocolManager: A 11ServerLobby protocol has been started.
+Wed Mar 06 12:50:42 2024 [info   ] STKHost: Listening has been started.
+[info   ] ConnectToServer: SETUP
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been started.
+[info   ] ConnectToServer: Trying connecting to [::1]:2759 from port 54985, retry remain: 3
+[info   ] ConnectToServer: Connected to [::1]:2759
+[info   ] STKHost: Listening has been started.
+[info   ] ProtocolManager: A 11ClientLobby protocol has been started.
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been terminated.
+Wed Mar 06 12:50:42 2024 [info   ] STKHost: [::1]:54985 has just connected. There are now 1 peers.
+Wed Mar 06 12:50:42 2024 [info   ] ServerLobby: Message of type 1 received.
+Wed Mar 06 12:50:42 2024 [info   ] ServerLobby: New player emrnky with online id 433115 from [::1]:54985 with SuperTuxKart/1.4 (Linux).
+[info   ] ClientLobby: Synchronous message of type 4
+[info   ] ClientLobby: Synchronous message of type 6
+[info   ] ClientLobby: Synchronous message of type 3
+[info   ] ClientLobby: The server accepted the connection.
+[info   ] ClientLobby: Synchronous message of type 18
+[info   ] ClientLobby: Synchronous message of type 6
+[info   ] NetworkTimerSynchronizer: Network timer synchronized, difference: 0ms
+[info   ] ProtocolManager: A 11ClientLobby protocol has been terminated.
+[info   ] STKHost: Listening has been stopped.
+Wed Mar 06 12:50:55 2024 [info   ] STKHost: [::1]:54985 has just disconnected. There are now 0 peers.
+Wed Mar 06 12:50:55 2024 [info   ] ProtocolManager: A 11ServerLobby protocol has been terminated.
+Wed Mar 06 12:50:55 2024 [info   ] STKHost: Listening has been stopped.
+[info   ] STKHost: Host initialized.
+[info   ] ConnectToServer: SETUP
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been started.
+[info   ] NetworkConfig: System is IPv4 only.
+Wed Mar 06 12:51:30 2024 [info   ] STKHost: Host initialized.
+Wed Mar 06 12:51:30 2024 [warn   ] STKHost: Disable IPv6 socket due to missing IPv6.
+Wed Mar 06 12:51:30 2024 [info   ] STKHost: Server port is 2759
+Wed Mar 06 12:51:30 2024 [info   ] ServerLobby: Resetting the server to its initial state.
+Wed Mar 06 12:51:30 2024 [info   ] ProtocolManager: A 11ServerLobby protocol has been started.
+Wed Mar 06 12:51:30 2024 [warn   ] STKHost: Failed to get enough stun servers using SRV record.
+Wed Mar 06 12:51:30 2024 [info   ] STKHost: Listening has been started.
+Wed Mar 06 12:51:30 2024 [info   ] ServerLobby: Public IPv4 server address 159.149.149.148:47659
+[info   ] HTTPRequest: Sending userid=433115&token=************************&address=2677380500&port=47659&private_port=2759&name=emrnky%27s%20server&max_players=8&difficulty=2&game_mode=0&password=*&version=6 to https://online.supertuxkart.net/api/v2/server/create/
+[info   ] ServerLobby: Server 106366 is now online.
+[warn   ] STKHost: Failed to get enough stun servers using SRV record.
+[info   ] ConnectToServer: Registering addr 159.149.149.148:49755
+[info   ] HTTPRequest: Sending userid=433115&token=************************&server-id=106366&address=2677380500&address-ipv6=&port=49755&aes-key=****************************&aes-iv=qbz3%2BzgwS19Wtx2Q to https://online.supertuxkart.net/api/v2/server/join-server-key/
+[info   ] ConnectToServer: Trying connecting to 127.0.0.1:2759 from port 39852, retry remain: 3
+[info   ] ConnectToServer: Connected to 127.0.0.1:2759
+[info   ] ProtocolManager: A 11ClientLobby protocol has been started.
+[info   ] STKHost: Listening has been started.
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been terminated.
+Wed Mar 06 12:51:31 2024 [info   ] STKHost: 127.0.0.1:39852 has just connected. There are now 1 peers.
+[info   ] ClientLobby: Server will validate this online player.
+Wed Mar 06 12:51:31 2024 [info   ] ServerLobby: Message of type 1 received.
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
+Wed Mar 06 12:51:36 2024 [info   ] ServerLobby: emrnky validated
+Wed Mar 06 12:51:36 2024 [info   ] ServerLobby: New player emrnky with online id 433115 from 127.0.0.1:39852 with SuperTuxKart/1.4 (Linux).
+[info   ] ClientLobby: Synchronous message of type 4
+[info   ] ClientLobby: Synchronous message of type 6
+[info   ] ClientLobby: Synchronous message of type 3
+[info   ] ClientLobby: The server accepted the connection.
+[info   ] ClientLobby: Synchronous message of type 18
+[info   ] ClientLobby: Synchronous message of type 6
+[info   ] NetworkTimerSynchronizer: Network timer synchronized, difference: 1ms
+[info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
+Wed Mar 06 12:51:58 2024 [warn   ] ConnectToPeer: Time out trying to connect to 159.149.149.148:49755
+Wed Mar 06 12:51:58 2024 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
+Wed Mar 06 12:52:13 2024 [warn   ] ConnectToPeer: Time out trying to connect to 159.149.149.125:8196
+Wed Mar 06 12:52:13 2024 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
+[info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
+Wed Mar 06 12:53:03 2024 [warn   ] ConnectToPeer: Time out trying to connect to 159.149.149.125:6361
+Wed Mar 06 12:53:03 2024 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
+Wed Mar 06 12:53:18 2024 [warn   ] ConnectToPeer: Time out trying to connect to 159.149.149.125:6311
+Wed Mar 06 12:53:18 2024 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
+[info   ] ProtocolManager: A 11ClientLobby protocol has been terminated.
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/server/clear-user-joined-server/
+[info   ] STKHost: Listening has been stopped.
+Wed Mar 06 12:53:25 2024 [info   ] STKHost: 127.0.0.1:39852 has just disconnected. There are now 0 peers.
+Wed Mar 06 12:53:25 2024 [info   ] ProtocolManager: A 11ServerLobby protocol has been terminated.
+Wed Mar 06 12:53:25 2024 [info   ] ServerLobby: Unregister server address 159.149.149.148:47659
+Wed Mar 06 12:53:25 2024 [info   ] STKHost: Listening has been stopped.
+[info   ] HTTPRequest: Sending userid=433115&token=************************&address=2677380500&port=47659 to https://online.supertuxkart.net/api/v2/server/stop/
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] Broadcast: address 127.0.0.1:0 length 8 mask ff --> 127.0.0.255:2757
+[info   ] Broadcast: address 172.27.73.175:0 length 20 mask fffff --> 172.31.255.255:2757
+[info   ] Broadcast: address 172.27.73.175:0 length 16 mask ffff --> 172.27.255.255:2757
+[info   ] Broadcast: address 172.27.73.175:0 length 8 mask ff --> 172.27.73.255:2757
+[info   ] Server Discovery: Broadcasting to 127.0.0.255:2757
+[info   ] Server Discovery: Broadcasting to 172.31.255.255:2757
+[info   ] Server Discovery: Broadcasting to 172.27.255.255:2757
+[info   ] Server Discovery: Broadcasting to 172.27.73.255:2757
+[info   ] Server Discovery: Broadcasting to [ff02::1]:2757
+[info   ] Server Discovery: Broadcasting to [ff02::1]:2757
+[info   ] ServersManager: Sent broadcast message.
+[info   ] Broadcast: address 127.0.0.1:0 length 8 mask ff --> 127.0.0.255:2757
+[info   ] Broadcast: address 172.27.73.175:0 length 20 mask fffff --> 172.31.255.255:2757
+[info   ] Broadcast: address 172.27.73.175:0 length 16 mask ffff --> 172.27.255.255:2757
+[info   ] Broadcast: address 172.27.73.175:0 length 8 mask ff --> 172.27.73.255:2757
+[info   ] Server Discovery: Broadcasting to 127.0.0.255:2757
+[info   ] Server Discovery: Broadcasting to 172.31.255.255:2757
+[info   ] Server Discovery: Broadcasting to 172.27.255.255:2757
+[info   ] Server Discovery: Broadcasting to 172.27.73.255:2757
+[info   ] Server Discovery: Broadcasting to [ff02::1]:2757
+[info   ] Server Discovery: Broadcasting to [ff02::1]:2757
+[info   ] ServersManager: Sent broadcast message.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/api/v2/server/get-all/
+[info   ] NetworkConfig: System is IPv4 only.
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/api/v2/server/get-all/
+[info   ] NetworkConfig: System is IPv4 only.
+[info   ] ServerInfoDialog: Server id is 106369, owner is 462430
+[info   ] STKHost: Host initialized.
+[info   ] ConnectToServer: SETUP
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been started.
+[warn   ] STKHost: Failed to get enough stun servers using SRV record.
+[info   ] ConnectToServer: Registering addr 159.149.149.148:48707
+[info   ] HTTPRequest: Sending userid=433115&token=************************&server-id=106369&address=2677380500&address-ipv6=&port=48707&aes-key=****************************&aes-iv=DSUFR7BJy%2F5Yi1UK to https://online.supertuxkart.net/api/v2/server/join-server-key/
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 43943, retry remain: 3
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 43943, retry remain: 2
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 43943, retry remain: 1
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 43943, retry remain: 0
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 51347, retry remain: 10
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 51347, retry remain: 9
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 51347, retry remain: 8
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 51347, retry remain: 7
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 51347, retry remain: 6
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 51347, retry remain: 5
+[info   ] ConnectToServer: Trying connecting to 159.149.149.125:6419 from port 51347, retry remain: 4
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been terminated.
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/server/clear-user-joined-server/
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/api/v2/server/get-all/
+[info   ] NetworkConfig: System is IPv4 only.
+[verbose  ] RaceManager: Nb of karts=0, ghost karts:0 ai:0 players:0
+
+[info   ] [FileManager]: Creating directory(ies) '/home/capitan/.cache/supertuxkart/cached-textures/hd/tracks/introcutscene'
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/tracks/introcutscene/'.
+[info   ] Track: Overall scene complexity estimated at 47
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/simple_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/simple_particle.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/alphatest_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/alphatest_particle.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/degraded_ibl.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sunlight.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/pointlight.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/pointlight.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/combine_diffuse_color.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sky.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sky.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/tonemap.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/passthrough.frag
+[verbose  ] StoryModeTimer: Total speedrun pause time : 308ms.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/tracks/overworld/splatting.frag
+[info   ] [FileManager]: Creating directory(ies) '/home/capitan/.cache/supertuxkart/cached-textures/hd/tracks/overworld'
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/tracks/overworld/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/capitan/.cache/supertuxkart/cached-textures/hd/deprecatedtex'
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/deprecatedtex/'.
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=26
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/pointlightscatter.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/gaussian6v.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/gaussian6h.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_text_billboard.frag
+[verbose  ] StoryModeTimer: Total speedrun pause time : 1183ms.
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=5, ghost karts:0 ai:4 players:1
+
+[info   ] [FileManager]: Creating directory(ies) '/home/capitan/.cache/supertuxkart/cached-textures/hd/tracks/cornfield_crossing'
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/tracks/cornfield_crossing/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/capitan/.cache/supertuxkart/cached-textures/hd/skybox'
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/skybox/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/capitan/.cache/supertuxkart/cached-textures/hd/library/stklib_fitchBarrel_a'
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/library/'.
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/library/stklib_fitchBarrel_a/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/capitan/.cache/supertuxkart/cached-textures/hd/library/stklib_hayBall_a'
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/library/stklib_hayBall_a/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/capitan/.cache/supertuxkart/cached-textures/hd/library/stklib_pumpkin_a'
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/library/stklib_pumpkin_a/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/capitan/.cache/supertuxkart/cached-textures/hd/library/stklib_sagebrush_a'
+[info   ] FileManager: Creating directory '/home/capitan/.cache/supertuxkart/cached-textures/hd/library/stklib_sagebrush_a/'.
+[info   ] Track: Overall scene complexity estimated at 644
+[verbose  ] StoryModeTimer: Total speedrun pause time : 2460ms.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=26
+[verbose  ] StoryModeTimer: Total speedrun pause time : 3115ms.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=7, ghost karts:0 ai:6 players:1
+
+[info   ] Track: Overall scene complexity estimated at 644
+[verbose  ] StoryModeTimer: Total speedrun pause time : 3693ms.
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] Thread: Start waiting 329277.118000
+[info   ] HTTPRequest: Sending userid=433115&token=************************ to https://online.supertuxkart.net/api/v2/user/client-quit/
+[verbose  ] Thread: Waited 0.010000 seconds for thread to become deleteable.
+[verbose  ] Thread: Stop waiting 329277.128000
+[verbose  ] Thread: Start waiting 329277.149000
+[verbose  ] Thread: Waited 0.413000 seconds for thread to become deleteable.
+[verbose  ] Thread: Stop waiting 329277.562000
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.

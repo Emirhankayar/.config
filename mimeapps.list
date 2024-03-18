@@ -8,6 +8,7 @@ application/x-executable=kitty.desktop;
 inode/directory=md.obsidian.Obsidian.desktop;
 video/x-matroska=vlc.desktop;
 text/x-python=code.desktop;
+application/x-ipynb+json=code.desktop;
 
 [Default Applications]
 application/pdf=org.pwmt.zathura-pdf-poppler.desktop
